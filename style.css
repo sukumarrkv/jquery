@@ -1,0 +1,21 @@
+.div1, .div2, .list-div {
+  background-color: aquamarine;
+  border-color: black;
+  border-style: dotted;
+  height: 150px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.div2 {
+  background-color: aqua;
+}
+
+.event-div {
+  background-color: aquamarine;
+  border-color: black;
+  border-style: dotted;
+  height: 40px;
+  width: 200px;
+  margin-bottom: 10px;
+}
