@@ -19,3 +19,9 @@
   width: 200px;
   margin-bottom: 10px;
 }
+
+.image {
+  display: block;
+  width: 200px;
+  margin-top: 10px;
+}
