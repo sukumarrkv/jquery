@@ -25,3 +25,13 @@
   width: 200px;
   margin-top: 10px;
 }
+
+.animate-image {
+  display: block;
+  width: 150px;
+  margin-top: 10px;
+}
+
+#animate-button {
+  margin-top: 10px;
+}
